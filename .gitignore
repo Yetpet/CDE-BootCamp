@@ -219,3 +219,15 @@ __marimo__/
 
 # Vscode
 .vscode/
+
+
+# CDE Assignment 2 generated/raw files
+cde-assignment-2/raw/*.csv
+cde-assignment-2/raw/*.json
+cde-assignment-2/etl.log
+cdea2/
+
+
+# Assignment 2 generated/moved data
+cde-assignment-2/json_and_CSV/*.csv
+cde-assignment-2/json_and_CSV/*.json
